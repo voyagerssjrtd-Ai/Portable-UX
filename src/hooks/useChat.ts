@@ -1,0 +1,1 @@
+// Core chat logic hook
